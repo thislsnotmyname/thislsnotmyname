@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thislsnotmyname
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... HTML, CSS, JS
+- 🌱 I’m currently learning ... HTML, CSS, JS, Ruby, and Rails
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... you don't, I reach you (just kidding, please reach out to me (discord: "thisisnotmyname."), i can't i'm scared)
+- 📫 How to reach me ... you don't, I reach you (just kidding, please reach out to me (discord: "thisisnotmyname."), I can't, I'm scared)
 
