@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thislsnotmyname
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... HTML, CSS, JS, PHP, MySQL, Ruby, and Rails
+- 🌱 I’m currently learning ... HTML, CSS, JS, PHP, MySQL, Python, Ruby, and Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on Discord "sharkleadership"
 
