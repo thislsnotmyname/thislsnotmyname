@@ -2,5 +2,5 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... HTML, CSS, JS, PHP, MySQL, Ruby, and Rails
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... on Discord "thisisnotmyname."
+- 📫 How to reach me ... on Discord "sharkleadership"
 
